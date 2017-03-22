@@ -4,6 +4,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:paddingTop="16dp"
+    android:paddingBottom="16dp"
+    android:paddingRight="16dp"
+    android:paddingLeft="16dp"
     tools:context="com.example.kmj.week3.MainActivity">
 
 
@@ -11,7 +15,7 @@
         android:id="@+id/score"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="학점계산기ㄱ욘"
+        android:text="학점계산기"
         tools:layout_editor_absoluteX="83dp"
         tools:layout_editor_absoluteY="52dp" />
 
@@ -19,7 +23,7 @@
         android:id="@+id/book"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="예약ㄱ욘"
+        android:text="레스토랑 예약시스템"
         tools:layout_editor_absoluteX="147dp"
         tools:layout_editor_absoluteY="142dp" />
 

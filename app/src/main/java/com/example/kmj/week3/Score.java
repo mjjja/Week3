@@ -37,6 +37,8 @@ public class Score extends AppCompatActivity {
         iv3=(ImageView)findViewById(R.id.imageView3);
         iv4=(ImageView)findViewById(R.id.imageView4);
 
+
+
         bt1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
